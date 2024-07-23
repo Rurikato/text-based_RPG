@@ -107,7 +107,7 @@ const locations = [
     "button text": ["Replay?", "Replay?", "Replay?"],
     "button functions": [restart, restart, restart],
     text: "YOU DEFEATED THE DRAGON! YOU WIN THE GAME!!!",
-    image: "images/youWin.png"
+    image: "images/youWin.jpg"
   },
   {
     name: "easter gg",
